@@ -1,0 +1,28 @@
+{
+  "assignments": [
+    {
+      "name": "Finish project",
+      "complete": false,
+      "id": 1,
+      "tag": "PHP"
+    },
+    {
+      "name": "Read chapter 4",
+      "complete": false,
+      "id": 2,
+      "tag": "PHP"
+    },
+    {
+      "name": "Turn in homework",
+      "complete": false,
+      "id": 3,
+      "tag": "Vue.js"
+    },
+    {
+      "name": "Sending emails",
+      "complete": true,
+      "id": 4,
+      "tag": "Laravel"
+    }
+  ]
+}
